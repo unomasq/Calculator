@@ -1,1 +1,1 @@
-№The simplest calculator. This is my first c++ project.
+#The simplest calculator. This is my first c++ project.
